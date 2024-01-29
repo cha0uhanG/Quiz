@@ -21,6 +21,7 @@ List <Quiz> questionbank =<Quiz>[
   Quiz(question: "The sun is a planet", answer: false),
   Quiz(question: "The moon has its own light.", answer: false),
   Quiz(question: "Honey has the highest viscosity.", answer: true),
+  Quiz(question: "India GDP is 3 Trillion", answer: true),
 ] ;
 
 
