@@ -9,7 +9,6 @@ class Quiz{
 }
 
 List <Quiz> questionbank =<Quiz>[
-  Quiz(question: "Bombay is capital of india", answer: false),
   Quiz(question: "Aricle 14 is related to Equality", answer: true),
   Quiz(question: "The Great Wall of China is visible from space.", answer: false),
   Quiz(question: "Tomatoes are vegetable.", answer: false),
